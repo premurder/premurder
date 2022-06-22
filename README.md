@@ -41,7 +41,7 @@ My name is Tom and I'm a student studying Computer Science. I really enjoy front
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/z"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <!--
 **premurder/premurder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
