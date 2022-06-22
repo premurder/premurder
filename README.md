@@ -1,12 +1,12 @@
-Hi 👋 My name is Tom
+Hi 👋
 ====================
 
 Software Engineer
 -----------------
 
-My name is Tom and I'm a student studying Computer Science. I really enjoy frontend development and have been learning frameworks like React to broaden my skill set in this area. I have also picked up an interest in backend development and I'm currently learning Java.
+I'm a student studying Computer Science. I really enjoy frontend development and have been learning frameworks like React to broaden my skill set in this area. I have also picked up an interest in backend development and I'm currently learning Java.
 
-* 🌍  I'm based in Los Angeles
+* 🌍  I'm based in the U.S.A
 * ✉️  You can contact me at [premurder@email.com](mailto:premurder@email.com)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on any application using React and Java
